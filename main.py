@@ -8,7 +8,7 @@ with open("random_forest_model.pkl", "rb") as file:
     rf_model = pickle.load(file)
 
 # Streamlit UI
-st.title("Customer Churn Prediction using AI & Advanced Ml techniques  ")
+st.title("Customer Churn Prediction using AI & Advanced Ml techniques  made by surendra🚀 ")
 st.write("Enter customer details below to predict whether they will churn (1) or stay (0).")
 
 # Input fields
